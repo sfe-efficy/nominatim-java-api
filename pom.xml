@@ -30,11 +30,11 @@
 
     <name>Nominatim Java API client</name>
     <description>A simple client library for the Nominatim API written in Java</description>
-    <url>https://github.com/jeremiehuchet/nominatim-java-api</url>
+    <url>https://github.com/sfe-efficy/nominatim-java-api</url>
     <inceptionYear>2010</inceptionYear>
 
     <organization>
-        <name>Dudie</name>
+        <name>Efficy</name>
     </organization>
 
     <licenses>
@@ -46,20 +46,20 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/jeremiehuchet/nominatim-java-api/tree/master</url>
-        <connection>scm:git:git@github.com:jeremiehuchet/nominatim-java-api.git</connection>
-        <developerConnection>scm:git:git@github.com:jeremiehuchet/nominatim-java-api.git</developerConnection>
+        <url>https://github.com/sfe-efficy/nominatim-java-api/tree/master</url>
+        <connection>scm:git:git@github.com:sfe-efficy/nominatim-java-api.git</connection>
+        <developerConnection>scm:git:git@github.com:sfe-efficy/nominatim-java-api.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
         <system>Github tracker</system>
-        <url>https://github.com/jeremiehuchet/nominatim-java-api/issues</url>
+        <url>https://github.com/sfe-efficy/nominatim-java-api/issues</url>
     </issueManagement>
 
     <developers>
         <developer>
-            <name>Jeremie Huchet</name>
+            <name>Samuel</name>
         </developer>
     </developers>
 
